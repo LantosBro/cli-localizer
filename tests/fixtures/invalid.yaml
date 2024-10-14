@@ -1,0 +1,4 @@
+greeting: "Hello, :name!"
+invalid_yaml:
+  - item1
+  item2

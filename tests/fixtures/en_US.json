@@ -1,0 +1,4 @@
+{
+	"greeting": "Hello, :name!",
+	"processing_files": "Processing :count files..."
+}

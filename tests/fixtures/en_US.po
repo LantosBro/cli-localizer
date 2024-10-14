@@ -1,0 +1,5 @@
+msgid "greeting"
+msgstr "Hello, :name!"
+
+msgid "processing_files"
+msgstr "Processing :count files..."
